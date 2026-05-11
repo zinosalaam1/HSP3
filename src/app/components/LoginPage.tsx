@@ -127,6 +127,8 @@ export function LoginPage({ onNavigate, onLoginSuccess }: LoginPageProps) {
               </button>
             </p>
           </div>
-          </div>
+        </motion.div>
+      </div>
+    </div>
   );
 }
