@@ -261,12 +261,12 @@ export function AboutPage() {
             Get in Touch
           </a>
           <a
-            href="https://www.instagram.com/hspimages/"
+            href="https://hakeemsalaam.myportfolio.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-8 py-3 border-2 border-[#1C1C1E] text-[#1C1C1E] hover:bg-[#1C1C1E] hover:text-white font-['Inter'] rounded-md transition-colors"
           >
-            View Instagram Portfolio
+            View My Portfolio
           </a>
         </div>
       </section>
